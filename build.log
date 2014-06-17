@@ -1,0 +1,217 @@
+Logfile initialized
+[INFO] logfile = /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build.log
+[DEBUG] /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/builder.py distribute Multicines /Users/juanmoscoso/Library/android-sdk-macosx /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app ec.push.multicines /Users/juanmoscoso/Desktop/MulticinesApp/Multi Push pushapps12 pushec /Users/juanmoscoso/Desktop/MulticinesApp
+[INFO] Titanium SDK version: 3.1.3 (09/18/13 12:00 222f4d1)
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[DEBUG] LiveView not enabled
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/botonCuenca.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/botoncuenca_954bf05153.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/botonEnviar.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/botonenviar_b82e93e39c.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/botonHora.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/botonhora_08cf973a7b.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/botonQuito.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/botonquito_631d6cb5d6.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/botonVolver.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/botonvolver_d0870769e3.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/cartelera.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/cartelera_c19adb83a1.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/contactanos.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/contactanos_2c27f036c0.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/facebook.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/facebook_3d31e488c1.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/header.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/header_271184a1ea.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/imgCompras.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/imgcompras_6329931f29.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/left.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/left_6967c24428.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/lineaHorizontal.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/lineahorizontal_17f7311690.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/logoNuevo.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/logonuevo_db1fae47a2.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/mas.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/mas_0d0e79f7c4.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/noHora.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/nohora_100b6e9b60.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/noHora2.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/nohora2_99c007c16f.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/promociones.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/promociones_55fa5cc03a.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/refresh.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/refresh_e36f90243a.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/rigth.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/rigth_dad3b3237e.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/splash.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/splash_b1acfddea4.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/trailers.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/trailers_9c32f50e5e.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/tresd.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/tresd_31a4f09c46.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/botonCuenca.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/botoncuenca_954bf05153.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/botonEnviar.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/botonenviar_b82e93e39c.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/botonHora.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/botonhora_08cf973a7b.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/botonQuito.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/botonquito_631d6cb5d6.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/botonVolver.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/botonvolver_d0870769e3.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/cartelera.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/cartelera_c19adb83a1.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/contactanos.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/contactanos_2c27f036c0.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/facebook.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/facebook_3d31e488c1.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/imgCompras.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/imgcompras_6329931f29.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/left.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/left_6967c24428.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/lineaHorizontal.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/lineahorizontal_17f7311690.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/mas.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/mas_0d0e79f7c4.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/noHora.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/nohora_100b6e9b60.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/noHora2.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/nohora2_99c007c16f.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/promociones.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/promociones_55fa5cc03a.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/refresh.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/refresh_e36f90243a.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/rigth.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/rigth_dad3b3237e.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/splash.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/splash_b1acfddea4.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/trailers.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/trailers_9c32f50e5e.png
+[TRACE] COPYING FILE: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/tresd.png => /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/tresd_31a4f09c46.png
+[DEBUG] found special platform files dir = /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/platform/android
+[INFO] Copying platform-specific files ...
+[DEBUG] copying app icon: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/bin/assets/Resources/Icon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-hdpi splash screen at /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/default.png
+[DEBUG] copying /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/high/default.png splash screen to /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-hdpi/background.png
+[DEBUG] found drawable-mdpi splash screen at /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/default.png
+[DEBUG] copying /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/Resources/android/images/medium/default.png splash screen to /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/res/drawable-mdpi/background.png
+[DEBUG] found splash screen at /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/bin/assets/Resources/default.png
+[DEBUG] Added 'screenSize' to <activity android:configChanges> because targeted api level 14 is >= 13
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/AssetCryptImpl.java to javac build list
+[DEBUG] adding /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/MulticinesActivity.java to javac build list
+[DEBUG] adding /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/MulticinesAppInfo.java to javac build list
+[DEBUG] adding /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/MulticinesApplication.java to javac build list
+[DEBUG] adding /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/AssetCryptImpl.java" "/Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/MulticinesActivity.java" "/Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/MulticinesAppInfo.java" "/Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/MulticinesApplication.java" "/Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/gen/ec/push/multicines/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/juanmoscoso/Documents/Titanium_Studio_Workspace/multicines-app/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/build/iphone/Info.plist
+[DEBUG] from resource zip => assets/Resources/fonts/AGENCYR.TTF
+[DEBUG] from resource zip => assets/Resources/fonts/HelveticaNeue.dfont
+[DEBUG] from resource zip => assets/Resources/images/Default.png
+[DEBUG] from resource zip => assets/Resources/images/Default@2x.png
+[DEBUG] from resource zip => assets/Resources/images/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/images/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/images/botonCuenca.png
+[DEBUG] from resource zip => assets/Resources/images/botonCuenca@2x.png
+[DEBUG] from resource zip => assets/Resources/images/botonEnviar.png
+[DEBUG] from resource zip => assets/Resources/images/botonEnviar@2x.png
+[DEBUG] from resource zip => assets/Resources/images/botonHora.png
+[DEBUG] from resource zip => assets/Resources/images/botonHora@2x.png
+[DEBUG] from resource zip => assets/Resources/images/botonQuito.png
+[DEBUG] from resource zip => assets/Resources/images/botonQuito@2x.png
+[DEBUG] from resource zip => assets/Resources/images/botonVolver.png
+[DEBUG] from resource zip => assets/Resources/images/botonVolver@2x.png
+[DEBUG] from resource zip => assets/Resources/images/cartelera.png
+[DEBUG] from resource zip => assets/Resources/images/cartelera@2x.png
+[DEBUG] from resource zip => assets/Resources/images/contactanos.png
+[DEBUG] from resource zip => assets/Resources/images/contactanos@2x.png
+[DEBUG] from resource zip => assets/Resources/images/facebook.png
+[DEBUG] from resource zip => assets/Resources/images/facebook@2x.png
+[DEBUG] from resource zip => assets/Resources/images/header.png
+[DEBUG] from resource zip => assets/Resources/images/imgCompras.png
+[DEBUG] from resource zip => assets/Resources/images/imgCompras@2x.png
+[DEBUG] from resource zip => assets/Resources/images/left.png
+[DEBUG] from resource zip => assets/Resources/images/left@2x.png
+[DEBUG] from resource zip => assets/Resources/images/lineaHorizontal.png
+[DEBUG] from resource zip => assets/Resources/images/lineaHorizontal@2x.png
+[DEBUG] from resource zip => assets/Resources/images/logoNuevo.png
+[DEBUG] from resource zip => assets/Resources/images/mas.png
+[DEBUG] from resource zip => assets/Resources/images/mas@2x.png
+[DEBUG] from resource zip => assets/Resources/images/noHora.png
+[DEBUG] from resource zip => assets/Resources/images/noHora2.png
+[DEBUG] from resource zip => assets/Resources/images/noHora2@2x.png
+[DEBUG] from resource zip => assets/Resources/images/noHora@2x.png
+[DEBUG] from resource zip => assets/Resources/images/promociones.png
+[DEBUG] from resource zip => assets/Resources/images/promociones@2x.png
+[DEBUG] from resource zip => assets/Resources/images/rigth.png
+[DEBUG] from resource zip => assets/Resources/images/rigth@2x.png
+[DEBUG] from resource zip => assets/Resources/images/splash.png
+[DEBUG] from resource zip => assets/Resources/images/splash@2x.png
+[DEBUG] from resource zip => assets/Resources/images/trailers.png
+[DEBUG] from resource zip => assets/Resources/images/trailers@2x.png
+[DEBUG] from resource zip => assets/Resources/images/tresd.png
+[DEBUG] from resource zip => assets/Resources/images/tresd@2x.png
+[DEBUG] from resource zip => assets/Resources/ui/common/css-media.css
+[DEBUG] from resource zip => assets/Resources/Default.png
+[DEBUG] from resource zip => assets/Resources/Default@2x.png
+[DEBUG] from resource zip => assets/Resources/Icon-ldpi.png
+[DEBUG] from resource zip => assets/Resources/Icon-mdpi.png
+[DEBUG] from resource zip => assets/Resources/Icon.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/logo.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from resource zip => res/drawable/btn_more_64.png
+[DEBUG] from resource zip => res/drawable/disclosure_64.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_item.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-hdpi/botoncuenca_954bf05153.png
+[DEBUG] from resource zip => res/drawable-hdpi/botonenviar_b82e93e39c.png
+[DEBUG] from resource zip => res/drawable-hdpi/botonhora_08cf973a7b.png
+[DEBUG] from resource zip => res/drawable-hdpi/botonquito_631d6cb5d6.png
+[DEBUG] from resource zip => res/drawable-hdpi/botonvolver_d0870769e3.png
+[DEBUG] from resource zip => res/drawable-hdpi/cartelera_c19adb83a1.png
+[DEBUG] from resource zip => res/drawable-hdpi/contactanos_2c27f036c0.png
+[DEBUG] from resource zip => res/drawable-hdpi/facebook_3d31e488c1.png
+[DEBUG] from resource zip => res/drawable-hdpi/header_271184a1ea.png
+[DEBUG] from resource zip => res/drawable-hdpi/imgcompras_6329931f29.png
+[DEBUG] from resource zip => res/drawable-hdpi/left_6967c24428.png
+[DEBUG] from resource zip => res/drawable-hdpi/lineahorizontal_17f7311690.png
+[DEBUG] from resource zip => res/drawable-hdpi/logonuevo_db1fae47a2.png
+[DEBUG] from resource zip => res/drawable-hdpi/mas_0d0e79f7c4.png
+[DEBUG] from resource zip => res/drawable-hdpi/nohora2_99c007c16f.png
+[DEBUG] from resource zip => res/drawable-hdpi/nohora_100b6e9b60.png
+[DEBUG] from resource zip => res/drawable-hdpi/promociones_55fa5cc03a.png
+[DEBUG] from resource zip => res/drawable-hdpi/refresh_e36f90243a.png
+[DEBUG] from resource zip => res/drawable-hdpi/rigth_dad3b3237e.png
+[DEBUG] from resource zip => res/drawable-hdpi/splash_b1acfddea4.png
+[DEBUG] from resource zip => res/drawable-hdpi/trailers_9c32f50e5e.png
+[DEBUG] from resource zip => res/drawable-hdpi/tresd_31a4f09c46.png
+[DEBUG] from resource zip => res/drawable-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-mdpi/botoncuenca_954bf05153.png
+[DEBUG] from resource zip => res/drawable-mdpi/botonenviar_b82e93e39c.png
+[DEBUG] from resource zip => res/drawable-mdpi/botonhora_08cf973a7b.png
+[DEBUG] from resource zip => res/drawable-mdpi/botonquito_631d6cb5d6.png
+[DEBUG] from resource zip => res/drawable-mdpi/botonvolver_d0870769e3.png
+[DEBUG] from resource zip => res/drawable-mdpi/cartelera_c19adb83a1.png
+[DEBUG] from resource zip => res/drawable-mdpi/contactanos_2c27f036c0.png
+[DEBUG] from resource zip => res/drawable-mdpi/facebook_3d31e488c1.png
+[DEBUG] from resource zip => res/drawable-mdpi/imgcompras_6329931f29.png
+[DEBUG] from resource zip => res/drawable-mdpi/left_6967c24428.png
+[DEBUG] from resource zip => res/drawable-mdpi/lineahorizontal_17f7311690.png
+[DEBUG] from resource zip => res/drawable-mdpi/mas_0d0e79f7c4.png
+[DEBUG] from resource zip => res/drawable-mdpi/nohora2_99c007c16f.png
+[DEBUG] from resource zip => res/drawable-mdpi/nohora_100b6e9b60.png
+[DEBUG] from resource zip => res/drawable-mdpi/promociones_55fa5cc03a.png
+[DEBUG] from resource zip => res/drawable-mdpi/refresh_e36f90243a.png
+[DEBUG] from resource zip => res/drawable-mdpi/rigth_dad3b3237e.png
+[DEBUG] from resource zip => res/drawable-mdpi/splash_b1acfddea4.png
+[DEBUG] from resource zip => res/drawable-mdpi/trailers_9c32f50e5e.png
+[DEBUG] from resource zip => res/drawable-mdpi/tresd_31a4f09c46.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/com.onecowstanding.flurry/1.1.1/lib/FlurryAgent.jar => com/flurry/org/codehaus/jackson/map/VERSION.txt
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/com.onecowstanding.flurry/1.1.1/lib/FlurryAgent.jar => com/flurry/org/codehaus/jackson/impl/VERSION.txt
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/com.onecowstanding.flurry/1.1.1/lib/FlurryAgent.jar => com/flurry/org/apache/avro/data/Json.avsc
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/juanmoscoso/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] installing native lib: /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/com.onecowstanding.flurry/1.1.1/libs/armeabi/libcom.onecowstanding.flurry.so
+[DEBUG] installing native lib: /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/com.onecowstanding.flurry/1.1.1/libs/armeabi-v7a/libcom.onecowstanding.flurry.so
+[DEBUG] installing native lib: /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/com.onecowstanding.flurry/1.1.1/libs/x86/libcom.onecowstanding.flurry.so
+[DEBUG] installing native lib: /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/titutorial.youtubeplayer/0.1/libs/armeabi/libtitutorial.youtubeplayer.so
+[DEBUG] installing native lib: /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/titutorial.youtubeplayer/0.1/libs/armeabi-v7a/libtitutorial.youtubeplayer.so
+[DEBUG] installing native lib: /Users/juanmoscoso/Library/Application Support/Titanium/modules/android/titutorial.youtubeplayer/0.1/libs/x86/libtitutorial.youtubeplayer.so
+[DEBUG] installing native SDK libs

@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=multicines-app
+android/abi=
+android/distribute_path=/Users/juanmoscoso/Desktop/MulticinesApp
+android/keystore_alias=pushec
+android/keystore_password=pushapps12
+android/keystore_path=/Users/juanmoscoso/Desktop/MulticinesApp/Multi Push
+android/recent_output=/Users/juanmoscoso/Desktop/MulticinesApp
+android/sdk_version=2.3.3
+eclipse.preferences.version=1
